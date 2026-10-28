@@ -47,3 +47,8 @@ open after a while can take 30–60 seconds to load. Later opens are fast.
 
 - Live scores update when you open or reopen a team page. Stremio doesn't auto-refresh an open page.
 - Manchester United shows Premier League games only (not cups or Europe).
+
+---
+
+This repository also contains **[Data Removal](data-removal/README.md)**, a separate,
+self-hosted app for removing your personal information from people-search sites and data brokers.
